@@ -10,6 +10,7 @@ Approach:
 
 while there are untried configurations
 {
+
    generate the next configuration
    
    if queens don't attack in this configuration then
@@ -19,7 +20,9 @@ while there are untried configurations
       Increment count
    
    }
+
 }
+
 
 Backtracking Algorithm:
 
